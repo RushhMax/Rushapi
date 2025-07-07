@@ -1,7 +1,7 @@
 # Angular output
 /dist
 /.angular
-/.angular/cache
+/rashpi-frontend/.angular/cache
 /.angular/config.json
 
 # IDE/editor config
